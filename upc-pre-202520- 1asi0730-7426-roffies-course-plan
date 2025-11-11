@@ -14,14 +14,13 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 ### Lección 2: HTML estructura y elementos (5 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Enlace**: [Ver la lección](https://youtu.be/emiX6G5Wslw)
+- **Consejos clave**: Elementos y estructura HTML.
+- **Práctica**: [Clic para programar](https://codepen.io) 👈
 ### Lección 3: CSS (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
 ### Lección 4: Creación de página (tutorial simple) (7 minutos)
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
 - **Enlace**: [Ver la lección](https://youtu.be/blShhDN9b1E)
@@ -33,12 +32,6 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Consejos clave**: Documentación, Accesibilidad, Buenas prácticas.
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/Deskjobo/webdev-course-roffies)
-- **Todas las Actividades Prácticas**:
-| Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 2 | HTML | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | CSS | [CodePen](https://codepen.io/your-lesson2) |
-| 4 | Página Simple | [CodePen](https://codepen.io/your-lesson4) |
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
