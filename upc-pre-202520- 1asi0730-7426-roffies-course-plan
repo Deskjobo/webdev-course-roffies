@@ -1,8 +1,8 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de XXXX introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
+Este curso de 32 minutos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **No
 requiere descargas**, utiliza la herramienta en linea codepen.io.
-**Duración total**: ~XXX minutos
+**Duración total**: ~32 minutos
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **Navegador web** (Chrome, Firefox, Safari, Edge), **Conexion a internet**
@@ -17,10 +17,11 @@ requiere descargas**, utiliza la herramienta en linea codepen.io.
 - **Enlace**: [Ver la lección](https://youtu.be/emiX6G5Wslw)
 - **Consejos clave**: Elementos y estructura HTML.
 - **Práctica**: [Clic para programar](https://codepen.io) 👈
-### Lección 3: CSS (8 minutos)
-- **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
+### Lección 3: CSS Introducción y Estilo Simple (10 minutos)
+- **Descripción**: Aprende a utilizar CSS para agregar Estilo Simple.
+- **Enlace**: [Ver la lección](https://youtu.be/3-uwEaj4ASg)
+- **Consejos clave**: Estilo CSS.
+- **Práctica**: [Clic para programar](https://codepen.io) 👈
 ### Lección 4: Creación de página (tutorial simple) (7 minutos)
 - **Descripción**: Pon a prueba el conocimiento aprendido de HTML y CSS para crear una página web simple.
 - **Enlace**: [Ver la lección](https://youtu.be/blShhDN9b1E)
